@@ -1,0 +1,123 @@
+[
+      {
+        "id": 1,
+        "name": "Rahim Khan",
+        "picture": "https://i.pravatar.cc/300?u=rahim1",
+        "email": "rahim.khan@gmail.com",
+        "days_since_contact": 28,
+        "status": "overdue",
+        "tags": ["college", "cricket"],
+        "bio": "Met at Dhaka University. We used to play cricket together every weekend. Still miss those days.",
+        "goal": 14,
+        "next_due_date": "2026-04-20"
+      },
+      {
+        "id": 2,
+        "name": "Sabrina Ahmed",
+        "picture": "https://i.pravatar.cc/300?u=sabrina2",
+        "email": "sabrina.ahmed@yahoo.com",
+        "days_since_contact": 9,
+        "status": "almost due",
+        "tags": ["school", "close friend"],
+        "bio": "High school best friend. She is very caring and always supports me during tough times.",
+        "goal": 10,
+        "next_due_date": "2026-04-18"
+      },
+      {
+        "id": 3,
+        "name": "Alex Chen",
+        "picture": "https://i.pravatar.cc/300?u=alexchen3",
+        "email": "alex.chen@outlook.com",
+        "days_since_contact": 5,
+        "status": "on-track",
+        "tags": ["work", "gaming"],
+        "bio": "Former colleague from Singapore. We play Valorant together almost every weekend.",
+        "goal": 7,
+        "next_due_date": "2026-04-19"
+      },
+      {
+        "id": 4,
+        "name": "Fatima Islam",
+        "picture": "https://i.pravatar.cc/300?u=fatima4",
+        "email": "fatima.islam123@gmail.com",
+        "days_since_contact": 35,
+        "status": "overdue",
+        "tags": ["family friend", "foodie"],
+        "bio": "Close family friend. We love talking about cooking and books. Haven't caught up in a while.",
+        "goal": 21,
+        "next_due_date": "2026-04-10"
+      },
+      {
+        "id": 5,
+        "name": "Tanvir Hossain",
+        "picture": "https://i.pravatar.cc/300?u=tanvir5",
+        "email": "tanvirhossain.bd@gmail.com",
+        "days_since_contact": 12,
+        "status": "almost due",
+        "tags": ["university", "football"],
+        "bio": "BUET friend. We played football together a lot during university life.",
+        "goal": 14,
+        "next_due_date": "2026-04-22"
+      },
+      {
+        "id": 6,
+        "name": "Priya Sharma",
+        "picture": "https://i.pravatar.cc/300?u=priya6",
+        "email": "priya.sharma92@gmail.com",
+        "days_since_contact": 3,
+        "status": "on-track",
+        "tags": ["online friend", "music"],
+        "bio": "Met through Instagram. Both of us love listening to music and sharing new songs.",
+        "goal": 7,
+        "next_due_date": "2026-04-17"
+      },
+      {
+        "id": 7,
+        "name": "Imran Malik",
+        "picture": "https://i.pravatar.cc/300?u=imran7",
+        "email": "imran.malik@proton.me",
+        "days_since_contact": 45,
+        "status": "overdue",
+        "tags": ["school", "business"],
+        "bio": "School life friend. Now he runs his own business. It's been too long since we last talked.",
+        "goal": 30,
+        "next_due_date": "2026-03-25"
+      },
+      {
+        "id": 8,
+        "name": "Nadia Rahman",
+        "picture": "https://i.pravatar.cc/300?u=nadia8",
+        "email": "nadiarahman.dev@gmail.com",
+        "days_since_contact": 7,
+        "status": "on-track",
+        "tags": ["work", "tech"],
+        "bio": "Current teammate and good friend. We often discuss coding, career and new technologies.",
+        "goal": 10,
+        "next_due_date": "2026-04-21"
+      },
+      {
+        "id": 9,
+        "name": "Shafin Khan",
+        "picture": "https://i.pravatar.cc/300?u=shafin9",
+        "email": "shafin.khan1998@gmail.com",
+        "days_since_contact": 18,
+        "status": "almost due",
+        "tags": ["gym", "motivation"],
+        "bio": "Gym partner. We motivate each other during workouts. Very positive person.",
+        "goal": 14,
+        "next_due_date": "2026-04-25"
+      },
+      {
+        "id": 10,
+        "name": "Emily Watson",
+        "picture": "https://i.pravatar.cc/300?u=emily10",
+        "email": "emily.watson.uk@gmail.com",
+        "days_since_contact": 22,
+        "status": "overdue",
+        "tags": ["exchange student", "travel"],
+        "bio": "Met during student exchange in Malaysia. She loves traveling and photography.",
+        "goal": 21,
+        "next_due_date": "2026-04-05"
+      }
+    ]
+  
